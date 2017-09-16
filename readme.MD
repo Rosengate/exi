@@ -9,3 +9,24 @@ Let's create a system where no one is in control of your time.
 
 ### Enforcement
 It's going to be hard to follow such system, without a proper enforcement. We might need some kind of app for this.
+
+### Difficulty / Reward System
+Along with the 6 days structure, there will be another active component to propel our life into some kind of meaningfulness. For example, you can subscribe to the highest level of difficulty. 
+
+### Todo / punishment system
+This sysmtem revolves around the task that you annointed yourself. Because after all, you're the one who wishes for changes yourself.
+
+### Flexible hours
+It's a norm that people usually work like 8 hours a day, but what about the other 16. You can be at the highest at one point and passionately do more work than others, but no one is gonna be there to withness them all. And there could be the lowest point of you and this system should tackle them.
+
+This system should tackle the procrastination. There can be an sort of AI to help you on managing your 'burnout' time. You can take leave
+
+### Hope system
+You can hope for something. This is about yourself. Say your truly self.
+
+### Tweak and customization
+You can tweak the whole order based on what you currently need. Sometimes, you're just too burnout. Just let the AI knows.
+
+### Subscription
+- Others can follow your structure.
+- You can create a project, at the beginning it can be flat structure. This is for the case where you want to work a project with other, using this system.
