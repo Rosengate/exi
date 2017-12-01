@@ -14,15 +14,15 @@ It's going to be hard to follow such system, without a proper enforcement.
 Along with the 6 days structure, there will be another active component to propel our life into some kind of meaningfulness. For example, you can subscribe to the highest level of difficulty. 
 
 ### Todo / punishment system
-This sysmtem revolves around the task that you annointed yourself. Because after all, you're the one who wishes for changes yourself.
+This system revolves around the task that you annointed yourself. Because after all, you're the one who wishes for changes yourself.
 
 ### Flexible hours
-It's a norm that people usually work like 8 hours a day, but what about the other 16. You can be at the highest at one point and passionately do more work than others, but no one is gonna be there to withness them all. And there could be the lowest point of you and this system should tackle them.
+It's a norm that people usually work like 8 hours a day, but what about the other 16. You can be at the highest at one point and passionately do more work than others, but no one is gonna be there to witness them all. And there could be the lowest point of you and this system should tackle them.
 
 This system should tackle the procrastination. There can be an sort of AI to help you on managing your 'burnout' time. You can take leave
 
 ### Hope system
-When I think about hope, I think about something to look forward to, something to live for, something to beat this dead soal to work for it.
+When I think about hope, I think about something to look forward to, something to live for, something to beat this dead soul to work for it.
 
 ### Tweak and customization
 You can tweak the whole order based on what you currently need. Sometimes, you're just too burnout. Just let the AI knows.
