@@ -8,7 +8,7 @@ sometimes just for the sake of the weekend. The society are perceiving the value
 Let's create a system where no one is in control of your time.
 
 ### Enforcement
-It's going to be hard to follow such system, without a proper enforcement. We might need some kind of app for this.
+It's going to be hard to follow such system, without a proper enforcement.
 
 ### Difficulty / Reward System
 Along with the 6 days structure, there will be another active component to propel our life into some kind of meaningfulness. For example, you can subscribe to the highest level of difficulty. 
@@ -22,7 +22,7 @@ It's a norm that people usually work like 8 hours a day, but what about the othe
 This system should tackle the procrastination. There can be an sort of AI to help you on managing your 'burnout' time. You can take leave
 
 ### Hope system
-You can hope for something. This is about yourself. Say your truly self.
+When I think about hope, I think about something to look forward to, something to live for, something to beat this dead soal to work for it.
 
 ### Tweak and customization
 You can tweak the whole order based on what you currently need. Sometimes, you're just too burnout. Just let the AI knows.
